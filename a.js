@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+var html = `<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -19,3 +19,5 @@
     </form>
   </body>
 </html>
+`
+console.log(html)
